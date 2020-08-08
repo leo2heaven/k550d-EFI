@@ -97,4 +97,4 @@ EFI/CLOVER/KEXT文件夹下：
 <s>usb定制没有成功，插上u盘，hackintool的usb显示没有反应，全部走的是usb2.0</s>
 
 ## 详情
-[沧澜小栈](https://www.leevast.com/"沧澜小栈"){:target="_blank"}
+[沧澜小栈](https://www.leevast.com/)
