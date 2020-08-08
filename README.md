@@ -97,4 +97,4 @@ EFI/CLOVER/KEXT文件夹下：
 <s>usb定制没有成功，插上u盘，hackintool的usb显示没有反应，全部走的是usb2.0</s>
 
 ## 详情
-[沧澜小栈](https://www.leevast.com/)
+[沧澜小栈](https://www.leevast.com/2020/07/27/%e6%88%98%e7%a5%9ek550d-i7d1%e5%ae%89%e8%a3%85%e9%bb%91%e8%8b%b9%e6%9e%9cmacos-catalina-10-15-6/)
