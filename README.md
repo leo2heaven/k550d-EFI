@@ -77,6 +77,7 @@ EFI/CLOVER/KEXT文件夹下：
 3.致谢 [远景论坛][PCBETA] 的 flygun2005的[打开软件花屏解决方案](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1824015)
 4.致谢 [远景论坛][PCBETA] 的 赵小赵2045的[BCM94352HMB的驱动](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1863711&highlight=94352)
 5.致谢贴吧大佬的`肥秋没钱买面包`的[10.14.5驱动](http://tieba.baidu.com/p/4735008414?share=9105&fr=share&unique=6820BAC14ADEE24CD99E8C579D04F44D&st=1596425284&client_type=1&client_version=11.6.1&sfc=copy)
+其github haoyaxuan（https://github.com/haoyaxuan/Hasee-K550d-i7d1-hackintosh）
 6.致谢[针针](https://hyejeong.cn/)的帮助
 
 [PCBETA]: http://bbs.pcbeta.com/ " 远景论坛"
@@ -98,6 +99,8 @@ EFI/CLOVER/KEXT文件夹下：
 3.2020.8.7 内存频率修正1067->1600
 
 4.2020.8.8 电源显示正常
+
+5.2024.4.7 根据群友反应跑不了这个efi，多年后终于有空填坑，因为我添加了我之前的内存，导致efi在别的电脑没用，现在更新好了。实测10.15.7可用。
 
 ## 已知问题
 <s>usb定制没有成功，插上u盘，hackintool的usb显示没有反应，全部走的是usb2.0</s>
